@@ -10,6 +10,7 @@ printf("ed_mendoza")
 
   printf("genie_castillo")
   printf("boy boy");
+    printf("trisha slay");
 
 
 
